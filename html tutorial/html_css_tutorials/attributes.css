@@ -1,0 +1,6 @@
+li[class="a"]{
+    color:crimson
+}
+li[class~="b"]{
+    color:royalblue
+}
